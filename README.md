@@ -1,7 +1,5 @@
 ﻿# jmeter-ecommerce-performance-test
-
-# FakeStore API Performance Test (JMeter)
-
+ 
 ## Overview
 This project is a JMeter test plan created to test the performance of the FakeStore API endpoints using multiple user actions like browsing products and managing a shopping cart.
 
@@ -57,5 +55,6 @@ I generated the performance report (`index.html`) and linked assets (`style.css`
     └───content
             script.js
             style.css
+
 
 
