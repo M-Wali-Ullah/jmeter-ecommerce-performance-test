@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JMeter Performance Report</title>
+<link rel="stylesheet" href="content/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+</head>
+<body>
+<div class="container">
+<h1>📊 JMeter Performance Test Report</h1>
+
+<div class="metrics-grid" id="metricsGrid"></div>
+
+<div class="chart-container">
+    <canvas id="responseTimeChart"></canvas>
+</div>
+
+<div class="table-container">
+    <table>
+        <thead>
+            <tr>
+                <th>Label</th>
+                <th>Samples</th>
+                <th>Avg Response (ms)</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+</div>
+
+<div class="summary-box" id="summaryBox"></div>
+</div>
+
+<script src="content/script.js"></script>
+</body>
+</html>

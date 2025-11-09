@@ -1,0 +1,106 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1762420833813,561,1. Get All Users,200,OK,FakeStore API Performance Test 1-1,text,true,,3636,177,1,1,https://fakestoreapi.com/users,561,0,113
+1762420835377,254,2. Get All Products,200,OK,FakeStore API Performance Test 1-1,text,true,,11292,180,2,2,https://fakestoreapi.com/products,253,0,0
+1762420835809,577,1. Get All Users,200,OK,FakeStore API Performance Test 1-2,text,true,,3638,177,2,2,https://fakestoreapi.com/users,577,0,53
+1762420836633,368,3. Get Product Details,200,OK,FakeStore API Performance Test 1-1,text,true,,1012,182,3,3,https://fakestoreapi.com/products/1,368,0,0
+1762420837387,340,2. Get All Products,200,OK,FakeStore API Performance Test 1-2,text,true,,11284,180,3,3,https://fakestoreapi.com/products,333,0,0
+1762420837812,419,1. Get All Users,200,OK,FakeStore API Performance Test 1-3,text,true,,3640,177,3,3,https://fakestoreapi.com/users,419,0,30
+1762420838001,265,4. Add to Cart,201,Created,FakeStore API Performance Test 1-1,text,true,,732,272,3,3,https://fakestoreapi.com/carts,265,0,0
+1762420838729,423,3. Get Product Details,200,OK,FakeStore API Performance Test 1-2,text,true,,1213,182,4,4,https://fakestoreapi.com/products/2,423,0,0
+1762420839231,330,2. Get All Products,200,OK,FakeStore API Performance Test 1-3,text,true,,11288,180,4,4,https://fakestoreapi.com/products,329,0,0
+1762420839266,457,5. Get Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,803,179,4,4,https://fakestoreapi.com/carts/1,457,0,0
+1762420839811,568,1. Get All Users,200,OK,FakeStore API Performance Test 1-4,text,true,,3640,177,4,4,https://fakestoreapi.com/users,568,0,32
+1762420840152,422,4. Add to Cart,201,Created,FakeStore API Performance Test 1-2,text,true,,730,272,4,4,https://fakestoreapi.com/carts,422,0,0
+1762420840562,261,3. Get Product Details,200,OK,FakeStore API Performance Test 1-3,text,true,,1149,182,5,5,https://fakestoreapi.com/products/3,261,0,0
+1762420840723,381,6. Update Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,722,273,5,5,https://fakestoreapi.com/carts/1,381,0,0
+1762420841380,334,2. Get All Products,200,OK,FakeStore API Performance Test 1-4,text,true,,11284,180,5,5,https://fakestoreapi.com/products,334,0,0
+1762420841575,542,5. Get Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,805,179,5,5,https://fakestoreapi.com/carts/1,541,0,0
+1762420841826,331,4. Add to Cart,201,Created,FakeStore API Performance Test 1-3,text,true,,728,272,5,5,https://fakestoreapi.com/carts,331,0,0
+1762420841810,472,1. Get All Users,200,OK,FakeStore API Performance Test 1-5,text,true,,3638,177,5,5,https://fakestoreapi.com/users,472,0,33
+1762420842104,527,7. Delete Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,803,201,5,5,https://fakestoreapi.com/carts/1,527,0,0
+1762420842716,330,3. Get Product Details,200,OK,FakeStore API Performance Test 1-4,text,true,,1010,182,5,5,https://fakestoreapi.com/products/1,330,0,0
+1762420843159,483,5. Get Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,805,179,5,5,https://fakestoreapi.com/carts/1,483,0,0
+1762420843117,525,6. Update Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,721,274,5,5,https://fakestoreapi.com/carts/1,525,0,0
+1762420843282,500,2. Get All Products,200,OK,FakeStore API Performance Test 1-5,text,true,,11284,180,5,5,https://fakestoreapi.com/products,500,0,0
+1762420843632,438,1. Get All Users,200,OK,FakeStore API Performance Test 1-1,text,true,,3636,177,5,5,https://fakestoreapi.com/users,436,0,0
+1762420844048,334,4. Add to Cart,201,Created,FakeStore API Performance Test 1-4,text,true,,732,272,5,5,https://fakestoreapi.com/carts,334,0,0
+1762420844643,260,6. Update Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,731,274,5,5,https://fakestoreapi.com/carts/1,260,0,0
+1762420844643,356,7. Delete Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,817,201,5,5,https://fakestoreapi.com/carts/1,356,0,0
+1762420844784,253,3. Get Product Details,200,OK,FakeStore API Performance Test 1-5,text,true,,1213,182,5,5,https://fakestoreapi.com/products/2,253,0,0
+1762420845073,345,2. Get All Products,200,OK,FakeStore API Performance Test 1-1,text,true,,11294,180,5,5,https://fakestoreapi.com/products,344,0,0
+1762420845383,533,5. Get Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,803,179,5,5,https://fakestoreapi.com/carts/1,533,0,0
+1762420845903,414,7. Delete Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,811,201,5,5,https://fakestoreapi.com/carts/1,414,0,0
+1762420846038,279,4. Add to Cart,201,Created,FakeStore API Performance Test 1-5,text,true,,726,272,5,5,https://fakestoreapi.com/carts,279,0,0
+1762420846000,376,1. Get All Users,200,OK,FakeStore API Performance Test 1-2,text,true,,3636,177,5,5,https://fakestoreapi.com/users,357,0,0
+1762420846419,411,3. Get Product Details,200,OK,FakeStore API Performance Test 1-1,text,true,,1151,182,5,5,https://fakestoreapi.com/products/3,411,0,0
+1762420846918,322,6. Update Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,728,273,5,5,https://fakestoreapi.com/carts/1,322,0,0
+1762420847378,374,2. Get All Products,200,OK,FakeStore API Performance Test 1-2,text,true,,11288,180,5,5,https://fakestoreapi.com/products,374,0,0
+1762420847319,755,5. Get Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,803,179,5,5,https://fakestoreapi.com/carts/1,755,0,0
+1762420847319,755,1. Get All Users,200,OK,FakeStore API Performance Test 1-3,text,true,,3632,177,5,5,https://fakestoreapi.com/users,755,0,0
+1762420847830,338,4. Add to Cart,201,Created,FakeStore API Performance Test 1-1,text,true,,732,272,5,5,https://fakestoreapi.com/carts,338,0,0
+1762420848240,433,7. Delete Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,805,201,5,5,https://fakestoreapi.com/carts/1,433,0,0
+1762420848753,338,3. Get Product Details,200,OK,FakeStore API Performance Test 1-2,text,true,,1010,182,5,5,https://fakestoreapi.com/products/1,338,0,0
+1762420849075,317,2. Get All Products,200,OK,FakeStore API Performance Test 1-3,text,true,,11288,180,5,5,https://fakestoreapi.com/products,317,0,0
+1762420849075,539,6. Update Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,723,274,5,5,https://fakestoreapi.com/carts/1,539,0,0
+1762420849169,445,5. Get Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,801,179,5,5,https://fakestoreapi.com/carts/1,445,0,0
+1762420849674,432,1. Get All Users,200,OK,FakeStore API Performance Test 1-4,text,true,,3640,177,5,5,https://fakestoreapi.com/users,432,0,0
+1762420850091,334,4. Add to Cart,201,Created,FakeStore API Performance Test 1-2,text,true,,734,272,5,5,https://fakestoreapi.com/carts,334,0,0
+1762420850393,338,3. Get Product Details,200,OK,FakeStore API Performance Test 1-3,text,true,,1217,182,5,5,https://fakestoreapi.com/products/2,338,0,0
+1762420850615,418,6. Update Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,725,274,5,5,https://fakestoreapi.com/carts/1,418,0,0
+1762420850615,439,7. Delete Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,807,201,5,5,https://fakestoreapi.com/carts/1,439,0,0
+1762420851107,330,2. Get All Products,200,OK,FakeStore API Performance Test 1-4,text,true,,11284,180,5,5,https://fakestoreapi.com/products,329,0,0
+1762420851428,551,5. Get Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,805,179,5,5,https://fakestoreapi.com/carts/1,551,0,0
+1762420851739,342,4. Add to Cart,201,Created,FakeStore API Performance Test 1-3,text,true,,728,272,5,5,https://fakestoreapi.com/carts,342,0,0
+1762420852035,444,7. Delete Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,801,201,5,5,https://fakestoreapi.com/carts/1,444,0,0
+1762420852055,439,1. Get All Users,200,OK,FakeStore API Performance Test 1-5,text,true,,3630,177,5,5,https://fakestoreapi.com/users,439,0,0
+1762420852437,440,3. Get Product Details,200,OK,FakeStore API Performance Test 1-4,text,true,,1157,182,5,5,https://fakestoreapi.com/products/3,440,0,0
+1762420852980,313,6. Update Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,726,273,5,5,https://fakestoreapi.com/carts/1,313,0,0
+1762420853082,365,5. Get Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,803,179,5,5,https://fakestoreapi.com/carts/1,365,0,0
+1762420853495,392,2. Get All Products,200,OK,FakeStore API Performance Test 1-5,text,true,,11290,180,5,5,https://fakestoreapi.com/products,392,0,0
+1762420853481,665,1. Get All Users,200,OK,FakeStore API Performance Test 1-1,text,true,,3636,177,5,5,https://fakestoreapi.com/users,665,0,0
+1762420853878,335,4. Add to Cart,201,Created,FakeStore API Performance Test 1-4,text,true,,736,272,5,5,https://fakestoreapi.com/carts,335,0,0
+1762420854294,422,7. Delete Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,803,201,5,5,https://fakestoreapi.com/carts/1,422,0,0
+1762420854449,267,6. Update Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,733,274,5,5,https://fakestoreapi.com/carts/1,267,0,0
+1762420854890,335,3. Get Product Details,200,OK,FakeStore API Performance Test 1-5,text,true,,1010,182,5,5,https://fakestoreapi.com/products/1,335,0,0
+1762420855148,394,2. Get All Products,200,OK,FakeStore API Performance Test 1-1,text,true,,11284,180,5,5,https://fakestoreapi.com/products,394,0,0
+1762420855214,513,5. Get Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,801,179,5,5,https://fakestoreapi.com/carts/1,513,0,0
+1762420855717,433,1. Get All Users,200,OK,FakeStore API Performance Test 1-2,text,true,,3634,177,5,5,https://fakestoreapi.com/users,433,0,0
+1762420855717,433,7. Delete Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,803,201,5,5,https://fakestoreapi.com/carts/1,433,0,0
+1762420856227,331,4. Add to Cart,201,Created,FakeStore API Performance Test 1-5,text,true,,728,272,5,5,https://fakestoreapi.com/carts,331,0,0
+1762420856543,344,3. Get Product Details,200,OK,FakeStore API Performance Test 1-1,text,true,,1219,182,5,5,https://fakestoreapi.com/products/2,344,0,0
+1762420856729,344,6. Update Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,725,274,5,5,https://fakestoreapi.com/carts/1,344,0,0
+1762420857151,328,2. Get All Products,200,OK,FakeStore API Performance Test 1-2,text,true,,11290,180,5,5,https://fakestoreapi.com/products,328,0,0
+1762420857152,493,1. Get All Users,200,OK,FakeStore API Performance Test 1-3,text,true,,3646,177,5,5,https://fakestoreapi.com/users,493,0,0
+1762420857558,356,5. Get Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,803,179,5,5,https://fakestoreapi.com/carts/1,356,0,0
+1762420857887,252,4. Add to Cart,201,Created,FakeStore API Performance Test 1-1,text,true,,726,272,5,5,https://fakestoreapi.com/carts,252,0,0
+1762420858073,415,7. Delete Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,811,201,5,5,https://fakestoreapi.com/carts/1,415,0,0
+1762420858480,433,3. Get Product Details,200,OK,FakeStore API Performance Test 1-2,text,true,,1149,182,5,5,https://fakestoreapi.com/products/3,433,0,0
+1762420858647,486,2. Get All Products,200,OK,FakeStore API Performance Test 1-3,text,true,,11292,180,5,5,https://fakestoreapi.com/products,485,0,0
+1762420858915,331,6. Update Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,720,273,5,5,https://fakestoreapi.com/carts/1,331,0,0
+1762420859140,434,5. Get Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,803,179,5,5,https://fakestoreapi.com/carts/1,434,0,0
+1762420859487,439,1. Get All Users,200,OK,FakeStore API Performance Test 1-4,text,true,,3636,177,5,5,https://fakestoreapi.com/users,439,0,0
+1762420859913,255,4. Add to Cart,201,Created,FakeStore API Performance Test 1-2,text,true,,726,272,5,5,https://fakestoreapi.com/carts,255,0,0
+1762420860133,318,3. Get Product Details,200,OK,FakeStore API Performance Test 1-3,text,true,,1010,182,5,5,https://fakestoreapi.com/products/1,318,0,0
+1762420860245,354,7. Delete Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,805,201,5,5,https://fakestoreapi.com/carts/1,354,0,0
+1762420860574,269,6. Update Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,723,274,5,5,https://fakestoreapi.com/carts/1,269,0,0
+1762420860926,337,2. Get All Products,200,OK,FakeStore API Performance Test 1-4,text,true,,11288,180,5,5,https://fakestoreapi.com/products,331,0,0
+1762420861169,462,5. Get Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,805,179,5,5,https://fakestoreapi.com/carts/1,462,0,0
+1762420861452,331,4. Add to Cart,201,Created,FakeStore API Performance Test 1-3,text,true,,734,272,5,5,https://fakestoreapi.com/carts,331,0,0
+1762420861601,485,1. Get All Users,200,OK,FakeStore API Performance Test 1-5,text,true,,3636,177,5,5,https://fakestoreapi.com/users,484,0,0
+1762420861844,438,7. Delete Cart,200,OK,FakeStore API Performance Test 1-1,text,true,,813,201,5,5,https://fakestoreapi.com/carts/1,438,0,0
+1762420862265,333,3. Get Product Details,200,OK,FakeStore API Performance Test 1-4,text,true,,1213,182,4,4,https://fakestoreapi.com/products/2,333,0,0
+1762420862632,271,6. Update Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,727,274,4,4,https://fakestoreapi.com/carts/1,271,0,0
+1762420862784,352,5. Get Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,805,179,4,4,https://fakestoreapi.com/carts/1,352,0,0
+1762420863087,340,2. Get All Products,200,OK,FakeStore API Performance Test 1-5,text,true,,11290,180,4,4,https://fakestoreapi.com/products,340,0,0
+1762420863599,337,4. Add to Cart,201,Created,FakeStore API Performance Test 1-4,text,true,,730,272,4,4,https://fakestoreapi.com/carts,337,0,0
+1762420863905,449,7. Delete Cart,200,OK,FakeStore API Performance Test 1-2,text,true,,803,201,4,4,https://fakestoreapi.com/carts/1,449,0,0
+1762420864138,382,6. Update Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,718,273,3,3,https://fakestoreapi.com/carts/1,382,0,0
+1762420864430,357,3. Get Product Details,200,OK,FakeStore API Performance Test 1-5,text,true,,1149,182,3,3,https://fakestoreapi.com/products/3,357,0,0
+1762420864938,430,5. Get Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,801,179,3,3,https://fakestoreapi.com/carts/1,430,0,0
+1762420865521,560,7. Delete Cart,200,OK,FakeStore API Performance Test 1-3,text,true,,805,201,3,3,https://fakestoreapi.com/carts/1,560,0,0
+1762420865787,335,4. Add to Cart,201,Created,FakeStore API Performance Test 1-5,text,true,,734,272,2,2,https://fakestoreapi.com/carts,335,0,0
+1762420866370,325,6. Update Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,723,274,2,2,https://fakestoreapi.com/carts/1,325,0,0
+1762420867122,438,5. Get Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,807,179,2,2,https://fakestoreapi.com/carts/1,438,0,0
+1762420867695,352,7. Delete Cart,200,OK,FakeStore API Performance Test 1-4,text,true,,809,201,2,2,https://fakestoreapi.com/carts/1,352,0,0
+1762420868561,418,6. Update Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,723,274,1,1,https://fakestoreapi.com/carts/1,418,0,0
+1762420869980,402,7. Delete Cart,200,OK,FakeStore API Performance Test 1-5,text,true,,801,201,1,1,https://fakestoreapi.com/carts/1,402,0,0
