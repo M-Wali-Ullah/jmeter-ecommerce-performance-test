@@ -45,6 +45,7 @@ I generated the performance report (`index.html`) and linked assets (`style.css`
 <img width="1882" height="875" alt="image" src="https://github.com/user-attachments/assets/112ba9c1-c0e8-4fec-8035-768e946b8ac1" />
 
 # Project Structure
+.
 │   ecommerce_test.jmx
 │   products.csv
 │   quantities.csv
@@ -56,3 +57,5 @@ I generated the performance report (`index.html`) and linked assets (`style.css`
     └───content
             script.js
             style.css
+
+
